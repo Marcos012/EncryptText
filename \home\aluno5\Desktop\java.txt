@@ -1,0 +1,3 @@
+Arquivo gravado em : 24/08/2018 12:28:32
+Caminho da gravação: \home\aluno5\Desktop\java.txt
+Tempo de gravação: 26ms.
